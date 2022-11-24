@@ -3097,6 +3097,11 @@
         <target state="translated">Správně použít hodnot ValueTask</target>
         <note />
       </trans-unit>
+      <trans-unit id="UseVolatileClassInseadOfThreadVolatileReadMethodsCodeFixTitle">
+        <source>Use Volatile class method instead</source>
+        <target state="new">Use Volatile class method instead</target>
+        <note />
+      </trans-unit>
       <trans-unit id="UseXmlReaderDescription">
         <source>Processing XML from untrusted data may load dangerous external references, which should be restricted by using an XmlReader with a secure resolver or with DTD processing disabled.</source>
         <target state="translated">Zpracování kódu XML z nedůvěryhodných dat může načíst nebezpečné externí odkazy, což by se mělo omezit tím, že se použije XmlReader se zabezpečeným překladačem nebo se zakázaným zpracováním DTD.</target>

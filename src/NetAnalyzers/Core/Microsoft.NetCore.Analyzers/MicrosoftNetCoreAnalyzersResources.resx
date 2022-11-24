@@ -2031,4 +2031,7 @@
   <data name="PreventNumericIntPtrUIntPtrBehavioralChangesConversionThrowsMessage" xml:space="preserve">
     <value>Starting with .NET 7 the explicit conversion '{0}' will throw when overflowing in a checked context. Wrap the expression with an 'unchecked' statement to restore the .NET 6 behavior.</value>
   </data>
+  <data name="UseVolatileClassInseadOfThreadVolatileReadMethodsCodeFixTitle" xml:space="preserve">
+    <value>Use Volatile class method instead</value>
+  </data>
 </root>

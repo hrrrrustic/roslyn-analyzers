@@ -3097,6 +3097,11 @@
         <target state="translated">올바르게 ValueTasks 사용</target>
         <note />
       </trans-unit>
+      <trans-unit id="UseVolatileClassInseadOfThreadVolatileReadMethodsCodeFixTitle">
+        <source>Use Volatile class method instead</source>
+        <target state="new">Use Volatile class method instead</target>
+        <note />
+      </trans-unit>
       <trans-unit id="UseXmlReaderDescription">
         <source>Processing XML from untrusted data may load dangerous external references, which should be restricted by using an XmlReader with a secure resolver or with DTD processing disabled.</source>
         <target state="translated">신뢰할 수 없는 데이터의 XML을 처리하면 위험한 외부 참조가 로드될 수 있습니다. 위험한 외부 참조는 안전한 확인자와 함께 또는 DTD 처리를 사용하지 않도록 설정한 상태로 XmlReader를 사용하여 제한해야 합니다.</target>
